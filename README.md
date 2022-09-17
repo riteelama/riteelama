@@ -45,9 +45,9 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riteelama&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 
-#### Connect With Me
+<!-- #### Connect With Me -->
 
-<p left="center">
+<!-- <p left="center">
 <a href="https://profile.wordpress.org/lamarajan">
   <img src="https://img.shields.io/badge/wordpress-%23000000.svg?&style=for-the-badge&logo=wordpress&logoColor=white" height=25>
 </a>
@@ -64,4 +64,4 @@
 <a href="mailto:rajan.lama786@gmail.com">
   <img src="	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25>
 </a>
-</p>
+</p> -->
