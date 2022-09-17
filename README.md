@@ -4,9 +4,9 @@
   <a href="https://riteelama.com.np">
     Website
   </a>
-  <a href="https://stackoverflow.com/users/6037636/rajan-lama">
+  <!-- <a href="https://stackoverflow.com/users/6037636/rajan-lama">
     <img alt="Stack Overflow reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/6037636?color=orange&label=reputation&logo=stackoverflow">
-  </a>
+  </a> -->
   <a href="https://github.com/riteelama/?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/riteelama?color=green&logo=github">
   </a>
